@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+scikit-learn
+matplotlib
+dotenv
+google-generativeai
+pulp
+seaborn
+flask_wtf
+flask-cors
